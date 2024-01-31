@@ -12,3 +12,7 @@ I've also included a small sample dataset that consists of original fingerprints
 autoencoder_predict.py will attempt to reconstruct the fingerprint using that small sample dataset.
 
 The autoencoders in the old_autoencoders are previous versions, they may not work as most of them come from the beginning of the project.
+
+Dataset courtesy of Sokoto Coventry Fingerprint Dataset (SOCOFing).
+
+https://www.kaggle.com/datasets/ruizgara/socofing/data
